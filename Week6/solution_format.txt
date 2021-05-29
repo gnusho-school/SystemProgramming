@@ -1,0 +1,7 @@
+I am the mayor. I can do anything I want.
+1 2 4 7 11 16
+1 h 842
+108 2
+ccccjj
+4 2 6 1 3 5
+secret_phase_answer (optional)...
